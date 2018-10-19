@@ -26,7 +26,7 @@ else:
 # Import in the code with the actual implementation
 from CS312Graph import *
 #from NetworkRoutingSolver import *
-from NetworkRoutingSolver_complete import *
+from NetworkRoutingSolver import *
 
 BLACK = (0,0,0)
 
